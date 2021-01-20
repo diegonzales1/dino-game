@@ -1,2 +1,2 @@
 # dino-game
-Jogo do Dinossauro com HTML, CSS e JAVASCRIPT. Digital Innovation One
+### Jogo do Dinossauro com HTML, CSS e JAVASCRIPT. Digital Innovation One
